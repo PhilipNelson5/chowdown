@@ -3,7 +3,7 @@
 layout: recipe
 title: Turkey Stuffing
 image: turkey-stuffing.jpg
-tags:
+tags: thanksgiving sides
 recipeYield:
 
 ingredients:
