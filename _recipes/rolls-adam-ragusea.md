@@ -30,7 +30,7 @@ directions:
 - Flatten each piece out and then roll it up into a ball, per the video
 - Line a standard square baking pan with parchment paper or grease, put in all the balls (they should be just touching), cover and let proof on the counter for a half hour
 - If you want to, score the tops of the rolls
-- Brush them with either melted butter or egg wash, and bake at 375ºF (190ºC) until the turn brown and stop puffing up, ~ half an hour
+- Brush them with either melted butter or egg wash, and bake at 375°F (190°C) until the turn brown and stop puffing up, ~ half an hour
 
 components:
 
