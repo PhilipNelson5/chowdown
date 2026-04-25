@@ -16,9 +16,9 @@ directions:
 - Fill another 1/3 of the container with milk of choice
 - Add Jello sugar free vanilla pudding powder
 - Add in pineapple chunks to the max fill line.
-- Hit it with a stick blender
+- Blend
 - Freeze for 24 hours
-- Spin 2 times on "Light Ice Cream" setting
+- Spin on "Light Ice Cream" setting
 
 components:
 
